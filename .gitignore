@@ -1,0 +1,5 @@
+node_modules
+email_accounts.csv
+out.log
+.DS_Store
+.env
